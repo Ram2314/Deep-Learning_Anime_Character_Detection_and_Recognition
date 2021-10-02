@@ -13,9 +13,5 @@ Japanese animation and manga illustrations has gained popularity in recent times
 ## Work Flow:
 ![](Images/workflow.png)
 ## Pretrained Haar Cascade Model
-In order to detect faces on images, we use a pre-trained Haar Cascade Model (lbpcascade_animeface) which was obtained from https://github.com/nagadomi/lbpcascade_animeface.
-The model has an 82% detection rate for animated faces. The
-model does has some draw back by giving some false positives
-boundary boxes. But overall does a ok job at detecting
-faces.
+In order to detect faces on images, we use a pre-trained Haar Cascade Model (lbpcascade_animeface) which was obtained from https://github.com/nagadomi/lbpcascade_animeface. The model has an 82% detection rate for animated faces. The model does has some draw back by giving some false positives boundary boxes. But overall does a ok job at detecting faces.
  
