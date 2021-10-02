@@ -48,3 +48,11 @@ Furthermore we ran examples on a few individual images as seen below:
 ![](Images/Example_3.png)
 Finally we combined the our trained CNN model with the Haar Cascade model to identify characters in a picture with mutliple characters. 
 ![](Images/Multi_Example_3.png)
+##  113 Character Model
+For this third model we trained on 113 characters from various shows. Used Data Augmentation to avoid overfitting.
+Below is the performance of the model
+![](Images/Graph_4.png)
+Furthermore we ran examples on a few individual images as seen below:
+![](Images/Example_4.png)
+Finally we combined the our trained CNN model with the Haar Cascade model to identify characters in a picture with mutliple characters. 
+![](Images/Multi_Example_4.png)
