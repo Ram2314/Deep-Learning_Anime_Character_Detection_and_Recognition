@@ -28,4 +28,4 @@ For this first model we trained on three characters from the popular anime show 
 1. Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno.
 2. 50-200 data samples for each character was obtained.
 Below is the performance of the model
-![](Images/)
+![](Images/Graph 1.png)
