@@ -32,7 +32,7 @@ Furthermore we ran examples on a few individual images as seen below:
 Finally we combined the our trained CNN model with the Haar Cascade model to identify characters in a picture with mutliple characters. 
 ![](Images/Multi_Example_1.png)
 ##  Ten Character Model
-For this second model we trained on three characters from the popular anime show Naruto, Yu Yu Hakusho and Kuroko no Basketball. Used Data Augmentation to avoid overfitting.
+For this second model we trained on ten characters from the popular anime show Naruto, Yu Yu Hakusho and Kuroko no Basketball. Used Data Augmentation to avoid overfitting.
 1. Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno, Yusuke Urameshi, Kazuma Kuwabara, Hiei, Kurama, Keiko Yukimura, Tetsuya Kuroko, Akashi Seijuro.
 Below is the performance of the model
 ![](Images/Graph_2.png)
@@ -40,3 +40,11 @@ Furthermore we ran examples on a few individual images as seen below:
 ![](Images/Example_2.png)
 Finally we combined the our trained CNN model with the Haar Cascade model to identify characters in a picture with mutliple characters. 
 ![](Images/Multi_Example_2.png)
+##  Twenty Character Model
+For this third model we trained on twenty characters from various shows. Used Data Augmentation to avoid overfitting.
+Below is the performance of the model
+![](Images/Graph_3.png)
+Furthermore we ran examples on a few individual images as seen below:
+![](Images/Example_3.png)
+Finally we combined the our trained CNN model with the Haar Cascade model to identify characters in a picture with mutliple characters. 
+![](Images/Multi_Example_3.png)
