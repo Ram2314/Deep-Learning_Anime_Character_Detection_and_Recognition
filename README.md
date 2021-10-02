@@ -58,5 +58,6 @@ Finally we combined the our trained CNN model with the Haar Cascade model to ide
 ![](Images/Multi_Example_4.png)
 ## Video Implementation
 I used OpenCV to read in frames from various scenes from different shows and our trained CNN model to identify characters. We see performance on three scenes from three different shows: Yu Yu Hakusho, Kuroko no Basketball and Naruto.
+
 https://user-images.githubusercontent.com/52713751/135700896-e8bdd9ab-0aa5-494d-a519-fe08d534c0ea.mp4
 
