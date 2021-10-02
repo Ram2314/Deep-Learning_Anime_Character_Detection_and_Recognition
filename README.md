@@ -7,8 +7,8 @@ Japanese animation and manga illustrations has gained popularity in recent times
 **What Data Will We Collect?:** We collect face images of various characters from the following
 1. Google Image Scraper
 2. DANBOORU2020
- a. Over 2.9 Million Images of anime characters
- b. With about n=300K labeled images
+a. Over 2.9 Million Images of anime characters
+b. With about n=300K labeled images
  
 ## Work Flow:
 ![](Images/workflow.png)
