@@ -27,3 +27,5 @@ For this first model we trained on three characters from the popular anime show 
 2. 50-200 data samples for each character was obtained.
 Below is the performance of the model
 ![](Images/Graph_1.png)
+Furthermore we ran examples on a few individual images as seen below:
+![](Images/Example_1.png)
