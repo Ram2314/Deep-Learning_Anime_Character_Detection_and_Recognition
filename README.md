@@ -21,7 +21,7 @@ train on four different datasets:
 3. Twenty characters 
 4. 113 characters
 We try to see the performance of each model by keeping track validation metrics.
-##  Three Character Model: Performance
+##  Three Character Model
 For this first model we trained on three characters from the popular anime show Naruto:
 1. Naruto Uzumaki, Sasuke Uchiha, Sakura Haruno.
 2. 50-200 data samples for each character was obtained.
