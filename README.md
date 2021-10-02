@@ -1,1 +1,1 @@
-# Deep-Learning_Anime_Character_Detection_and_Recognition
+DeepLearning: Anime Character Detection and Facial Recognition
