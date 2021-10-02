@@ -61,3 +61,20 @@ I used OpenCV to read in frames from various scenes from different shows and our
 
 https://user-images.githubusercontent.com/52713751/135700896-e8bdd9ab-0aa5-494d-a519-fe08d534c0ea.mp4
 
+##  Conclusion/Recommendations and Future Improvements
+**Problems Needed to Address:**
+Facial Recognition of anime characters is a quite challenging problem to solve. Some issues observed is that false positives
+could be dues to animation styles.
+Character drawing styles may vary from artist. Especially in a seasonal anime show, when artist are on rotations for drawing the
+episodes.
+**Future Work:**
+While the Haar Cascade Model (lbpcascade_animeface) was a good pre-trained model to detect faces in pictures, we could build on
+it to increase accuracy by using transfer learning or just making a completely new model. This will significantly increase the
+number of detections made on screen.
+Improve accuracy on 113 character model using more advanced data augmentation techniques or mine better data by hand. Would like
+to focus on improving true positive rate.
+**Recommendations:**
+Currently the model is not ready to be used for practical use, however one may use various other techniques such as ensemble
+modeling.
+One suggestion is train models by show and then combine them at the end to get best results.
+ 
