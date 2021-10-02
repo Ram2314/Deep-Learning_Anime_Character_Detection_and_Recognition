@@ -10,3 +10,4 @@ Japanese animation and manga illustrations has gained popularity in recent times
  a. Over 2.9 Million Images of anime characters
  b. With about n=300K labeled images
  
+# Work Flow:
