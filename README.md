@@ -11,3 +11,4 @@ Japanese animation and manga illustrations has gained popularity in recent times
  b. With about n=300K labeled images
  
 # Work Flow:
+![]{images/workflow.png}
